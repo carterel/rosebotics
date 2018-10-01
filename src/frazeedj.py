@@ -1,5 +1,5 @@
 """
-  Capstone Project.  Code written by Dylan Frazee.
+  Capstone Project.  Code written by Dylan Frazeeee.
   Fall term, 2018-2019.
 """
 
