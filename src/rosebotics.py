@@ -24,7 +24,7 @@ class Snatch3rRobot(object):
         self.left_wheel.start_spinning(lwdc)
         self.right_wheel.start_spinning(rwdc)
 
-    def stop(self, stop_action=StopAction.BRAKE):
+    def stop(self, stop_action=StopAction.BRAKE.value):
         self.left_wheel.stop_spinning(stop_action)
         self.left_wheel.stop_spinning(stop_action)
 
