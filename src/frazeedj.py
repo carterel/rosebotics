@@ -12,6 +12,7 @@ def main():
     run_tests()
 
 
+
 def run_tests():
     """ Runs various tests. """
     run_test_go_stop()
